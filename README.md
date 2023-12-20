@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Today I Learned](https://github.com/aqoshi/today-i-learned)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/qoshi/](https://www.linkedin.com/in/qoshi/)
-
 - 📫 How to reach me **aqoshi@umich.edu**
 
 <h3 align="left">Connect with me:</h3>
