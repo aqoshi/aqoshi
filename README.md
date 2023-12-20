@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arian</h1>
 <h3 align="center">An Aspiring Software Engineer from The University of Michigan</h3>
 
-- 🔭 I’m currently working on **today-i-learned**
+- 🔭 I’m currently working on [Today I Learned](https://github.com/aqoshi/today-i-learned)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/qoshi/](https://www.linkedin.com/in/qoshi/)
 
@@ -9,6 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/qoshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/qoshi/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/reflections" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reflections" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
