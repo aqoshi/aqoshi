@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arian</h1>
-<h3 align="center">An Aspiring Software Engineer from The University of Michigan</h3>
+<h3 align="center">A Computer Science Student from The University of Michigan</h3>
 
 - 🔭 I’m currently working on [Today I Learned](https://github.com/aqoshi/today-i-learned)
 
