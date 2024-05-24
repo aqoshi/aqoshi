@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arian</h1>
 <h3 align="center">A Computer Science Student from The University of Michigan</h3>
 
-- 🔭 I’m currently working on [Today I Learned](https://github.com/aqoshi/today-i-learned)
-
 - 📫 How to reach me **aqoshi@umich.edu**
-
-- 👨‍💻 All of my projects are available at [https://aqoshi.github.io/](https://aqoshi.github.io/) (pending)
 
 - 📄 Know about my experiences [https://aqoshi.github.io/resume/](https://aqoshi.github.io/resume/)
 
